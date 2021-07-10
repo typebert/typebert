@@ -1,0 +1,13 @@
+.DS_Store
+*.xml
+__pycache__
+*.xml
+.idea
+*.json
+*.pkl
+*.pyc
+code/env
+env
+code/checkpoints/
+code/pretrained/
+code/node_modules/
