@@ -1,6 +1,8 @@
 <img src="TypeBert.svg" width="800" alt="header"/>
 
-This is the source code for TypeBert. It is derived from Tensorflow model garden.
+This is the source code repository for the ESEC/FSE paper [*Learning Type Annotation: Is Big Data Enough?*](https://www.kevinrjesse.com/pdfs/typebert_esec_fse_.pdf) 
+
+It is derived from Tensorflow model garden.
 
 ## Docker:
 We have provided a docker image that will have all dependencies install for TypeBert. By downloading the image, you can link the directory of with the model
