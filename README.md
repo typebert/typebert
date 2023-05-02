@@ -4,6 +4,8 @@ This is the source code repository for the ESEC/FSE paper [*Learning Type Annota
 
 It is derived from Tensorflow model garden.
 
+* *May 2* Updated repository with huggingface models @ [kevinjesse/typebert](https://huggingface.co/kevinjesse/typebert). The dataset has also been uploaded with the same tag `kevinjesse/typebert`. Please see the `huggingface/train.py` and `huggingface/test.py` scripts to see how to download and use the model. I prefer to use `pytorch/pytorch:1.12.1-cuda11.3-cudnn8-devel` docker image.
+
 ## Docker:
 We have provided a docker image that will have all dependencies install for TypeBert. By downloading the image, you can link the directory of with the model
 weights through the following steps.
